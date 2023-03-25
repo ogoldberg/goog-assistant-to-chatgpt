@@ -1,0 +1,12 @@
+{
+  "name": "goog-assistant-to-chatgpt",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A Cloud Function that uses OpenAI's ChatGPT to answer user questions through Dialogflow",
+  "type": "module",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^3.0.0",
+    "actions-on-google": "^3.0.0",
+    "openai": "^3.2.1"
+  }
+}
